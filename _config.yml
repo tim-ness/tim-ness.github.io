@@ -6,10 +6,13 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: A Tim Site
+
+# Short description of your site
+description: Neverhad a myspace, but here we are.
 
 # Your name to show in the footer
-author: Some Person
+author: Tim Ness
 
 # --- List of links in the navigation bar --- #
 
@@ -39,12 +42,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "tim.ness@asu.edu"
+  facebook: tim.ness.106
+  github: tim-ness
+  twitter: ""
+  patreon: ""
+  youtube: ""
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -62,7 +65,7 @@ social-network-links:
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 
-# If you want to show a link to an RSS in the footer, add the site description here.
+# If you want to show a link to an RSS in the footer, add the site here.
 # If you don't want to show an RSS link, remove the following line.
 rss-description: This website is a virtual proof that I'm awesome
 
@@ -95,7 +98,8 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#800000"
+# Maroon
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
