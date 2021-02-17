@@ -102,12 +102,12 @@ feed_show_tags: true
 
 navbar-col: "#800000"
 # Maroon
-navbar-text-col: "#404040"
+navbar-text-col: "#00CED1"
 navbar-border-col: "#D3D3D3"
 page-col: "#FFFFF0"
 text-col: "#CD5C5C"
 link-col: "#2F4F4F"
-hover-col: "#00CED1"
+hover-col: "#5F9EA0"
 footer-col: "#FF7F50"
 footer-text-col: "#5F9EA0"
 footer-link-col: "#F0FFFF"
