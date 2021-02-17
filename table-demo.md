@@ -1,40 +1,5 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@tim-ness 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-DS4PS
-/
-barebones-jekyll
-Template
-1
-031
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-barebones-jekyll/_layouts/liquid-table.html
-@lecy
-lecy Update liquid-table.html
-Latest commit 26d7931 on Feb 1, 2020
- History
- 1 contributor
-310 lines (217 sloc)  5.75 KB
-  
 ---
-layout: nice-text
+layout: default
 ---
   
 {{ content }}
@@ -342,15 +307,3 @@ table {
   }
   
 </style>
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
